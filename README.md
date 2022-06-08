@@ -8,5 +8,6 @@ The purpose of this study was to determine which method of analysis gave the mos
 
 ## Documentation
 
-Documentation found [here](https://github.com/ehgp/realtime_crypto_arbitrage_bot/edit/main/README.md)
+Documentation found [here](https://github.com/ybaris/Predicting-an-NBA-Player-s-Points-per-Game-Project/blob/main/Report.pdf)
+
 The dataset source: https://github.com/elwan9880/Yahoo_fantasy_basketball_analyzer
